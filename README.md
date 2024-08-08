@@ -1,11 +1,6 @@
-- 👋 Hi, I’m Bibek Mandal AKA @bibekExe
-- 👀 I’m interested in Web development and javascript but also keen on trying AI/ML and trying my hands on database/data analysis
-- 🌱 I’m currently learning Web Development
-- 📫 How to reach me: you can follow by github profile
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I am also a Indian Classical Vocal Student
+
  <h1 align="center">Hi 👋, I'm Bibek Mandal</h1>
-<h3 align="center">A passionate web developer from India</h3>
+<h3 align="center">A passionate web developer from India. I’m interested in Web development and javascript but also keen on trying AI/ML and trying my hands on database/data analysis</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bibekexe&label=Profile%20views&color=0e75b6&style=flat" alt="bibekexe" /> </p>
 
